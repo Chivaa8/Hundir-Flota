@@ -79,6 +79,14 @@ uvicorn app.main:app --reload
 📍 La documentación Swagger se puede consultar en:
 [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
+### 2️⃣ Frontend
+
+Abrir el archivo:
+
+```frontend/index.html
+```
+
+Directamente en el navegador (no requiere servidor adicional).
 
 
 ### 👤 Autor
