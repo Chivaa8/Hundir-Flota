@@ -1,0 +1,224 @@
+{
+  "id_juego": "9280e301-f09f-4520-8817-67d93e3d2601",
+  "filas": 7,
+  "columnas": 7,
+  "jugador": "oeoeioje",
+  "modo": "normal",
+  "tablero": [
+    [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4
+    ],
+    [
+      0,
+      2,
+      2,
+      0,
+      5,
+      0,
+      4
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      4
+    ],
+    [
+      0,
+      0,
+      3,
+      0,
+      5,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      3,
+      0,
+      0,
+      1,
+      0
+    ]
+  ],
+  "barcos": [
+    {
+      "id": 1,
+      "nombre": "submarino",
+      "tamaño": 1,
+      "posiciones": [
+        {
+          "fila": 6,
+          "columna": 5
+        }
+      ],
+      "tocado": [
+        false
+      ],
+      "hundido": false
+    },
+    {
+      "id": 2,
+      "nombre": "destructor",
+      "tamaño": 2,
+      "posiciones": [
+        {
+          "fila": 1,
+          "columna": 1
+        },
+        {
+          "fila": 1,
+          "columna": 2
+        }
+      ],
+      "tocado": [
+        false,
+        false
+      ],
+      "hundido": false
+    },
+    {
+      "id": 3,
+      "nombre": "crucero",
+      "tamaño": 3,
+      "posiciones": [
+        {
+          "fila": 4,
+          "columna": 2
+        },
+        {
+          "fila": 5,
+          "columna": 2
+        },
+        {
+          "fila": 6,
+          "columna": 2
+        }
+      ],
+      "tocado": [
+        false,
+        false,
+        false
+      ],
+      "hundido": false
+    },
+    {
+      "id": 4,
+      "nombre": "acorazado",
+      "tamaño": 4,
+      "posiciones": [
+        {
+          "fila": 0,
+          "columna": 6
+        },
+        {
+          "fila": 1,
+          "columna": 6
+        },
+        {
+          "fila": 2,
+          "columna": 6
+        },
+        {
+          "fila": 3,
+          "columna": 6
+        }
+      ],
+      "tocado": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "hundido": false
+    },
+    {
+      "id": 5,
+      "nombre": "portaaviones",
+      "tamaño": 5,
+      "posiciones": [
+        {
+          "fila": 0,
+          "columna": 4
+        },
+        {
+          "fila": 1,
+          "columna": 4
+        },
+        {
+          "fila": 2,
+          "columna": 4
+        },
+        {
+          "fila": 3,
+          "columna": 4
+        },
+        {
+          "fila": 4,
+          "columna": 4
+        }
+      ],
+      "tocado": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hundido": false
+    }
+  ],
+  "casillas_ocupadas": 15,
+  "porcentaje_ocupacion": 30.61,
+  "disparos": [
+    {
+      "fila": 3,
+      "columna": 3,
+      "resultado": "agua",
+      "valor_posicion": "agua"
+    },
+    {
+      "fila": 2,
+      "columna": 5,
+      "resultado": "agua",
+      "valor_posicion": "agua"
+    }
+  ],
+  "juego_terminado": true,
+  "barcos_totales": 5,
+  "barcos_hundidos": 0,
+  "puntuacion": 0,
+  "fecha_inicio": "2026-01-28T14:00:21.738636",
+  "estado_partida": "abandonada",
+  "razon_abandono": "Partida abandonada por el usuario",
+  "timestamp_abandono": "2026-01-28T14:00:25.360492",
+  "fecha_fin": "2026-01-28T14:00:25.360492"
+}
