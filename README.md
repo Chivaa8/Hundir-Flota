@@ -83,7 +83,8 @@ uvicorn app.main:app --reload
 
 Abrir el archivo:
 
-```frontend/index.html
+```bash
+frontend/index.html
 ```
 
 Directamente en el navegador (no requiere servidor adicional).
