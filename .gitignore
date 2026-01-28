@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Datos generados
+backend/data/
+!backend/data/.gitkeep
+
+# Entornos
+.env
+venv/
