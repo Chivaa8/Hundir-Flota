@@ -86,5 +86,5 @@ uvicorn app.main:app --reload
 Desarrollado por **Oriol Chiva Hidalgo**
 ### 📧 Contacto: oriolchiva8@gmail.com / oriol.chiva.hidalgo@gmail.com
 
-© 2026 – Proyecto educativo desarrollado con React bajo licencia MIT.
+© 2026 – Proyecto educativo desarrollado bajo licencia MIT.
 
