@@ -42,21 +42,24 @@ El proyecto está desarrollado con un **backend en FastAPI (Python)** y un **fro
 
 ## 📁 Estructura del proyecto
 
+```text
 Hundir-Flota/
 ├── backend/
-│ ├── app/
-│ │ ├── api/
-│ │ ├── core/
-│ │ ├── schemas/
-│ │ ├── services/
-│ │ └── main.py
-│ ├── data/
-│ └── requirements.txt
+│   ├── app/
+│   │   ├── api/
+│   │   ├── core/
+│   │   ├── schemas/
+│   │   └── services/
+│   ├── main.py
+│   ├── data/
+│   └── requirements.txt
 ├── frontend/
-│ ├── index.html
-│ ├── styles.css
-│ └── main.js
+│   ├── index.html
+│   ├── styles.css
+│   └── main.js
 └── README.md
+```
+
 
 
 ---
